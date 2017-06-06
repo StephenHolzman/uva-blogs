@@ -10,7 +10,7 @@ for(file in list.files(file.path("analysis","R","utils"))){
   source(file.path("analysis","R","utils",file))
 }
 
-postname <- "2017-05-12-fertility-explainer"
+postname <- "2017-06-06-fertility-explainer"
 
 styling <- loadStyling()
 

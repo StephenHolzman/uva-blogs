@@ -7,3 +7,4 @@
 *.png
 **/.DS_Store
 **/.RDataTmp
+.Rproj.user
