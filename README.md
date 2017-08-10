@@ -8,4 +8,4 @@ Each post roughly follows my [personal project template](https://github.com/Step
 
 I suggest cloning or downloading the full repository. It only contains text files of small size. Most projects are [RStudio](https://www.rstudio.com/) based, so make sure you have it and the latest version of R installed.
 
-To replicate a post, navigate to the directory and open the .Rproj file. This should set the directory properly. After, open and run scripts located in the analysis folder and watch the data download and figures from the blog post generate. You may have to replace some credentials or API keys and make sure that dependency libraries are installed to get everything going.
+To replicate a post, navigate to the directory and open the .Rproj file. This should set the directory properly. After, open scripts from the project analysis folder, run them from the main directory, and watch the data download and figures from the blog post generate. You may have to replace some credentials or API keys and make sure that dependency libraries are installed to get everything going.
